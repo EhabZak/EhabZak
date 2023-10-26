@@ -11,6 +11,14 @@ I completed my Full Stack Web Development program at App Academy in October 2023
 
 <!--
 **EhabZak/EhabZak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frameworks, Languages, Libraries
+
+![python](./react-app/src/assets/python.png)
+![flask](./react-app/src/assets/flask.png)
+![React](./react.png)
+![Javascript](./react-app/src/assets/JS.png)
+![html](./react-app/src/assets/html.png)
+![CSS](./react-app/src/assets/css.png)
 
 Here are some ideas to get you started:
 
