@@ -9,17 +9,45 @@ In my project experience, I've had the opportunity to showcase my technical skil
 
 I completed my Full Stack Web Development program at App Academy in October 2023. Prior to that, I earned a Master of Engineering Leadership in Clean Energy from The University of British Columbia in 2016. With a strong technical foundation and a deep passion for software engineering, I'm ready to bring my skills and dedication to your team. Let's work together to tackle exciting challenges and create innovative solutions.
 
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EhabZak&theme=dark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhabZak&layout=compact&theme=vision-friendly-dark&size_weight=0.5&count_weight=0.5)
+
+## Frameworks, Languages, Libraries
+
+<p align="center">
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+<p/>
+
 <!--
 **EhabZak/EhabZak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## Frameworks, Languages, Libraries
 
 ![python](./react-app/src/assets/python.png)
 ![flask](./react-app/src/assets/flask.png)
-![React](./react.png)
-![Javascript](./react-app/src/assets/JS.png)
+![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
+![Javascript](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
 ![html](./react-app/src/assets/html.png)
 ![CSS](./react-app/src/assets/css.png)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
