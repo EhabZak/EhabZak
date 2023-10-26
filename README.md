@@ -15,6 +15,15 @@ I completed my Full Stack Web Development program at App Academy in October 2023
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EhabZak&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhabZak&layout=compact&theme=vision-friendly-dark&size_weight=0.5&count_weight=0.5)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/zak-alashqar/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" width="120" height="28">
+  </a>
+  <a href="https://www.zakashqar.com/?utm_source=github&utm_medium=readme_top">
+    <img src="https://img.shields.io/badge/_✨_Portfolio_-089992?style=for-the-badge" alt="Portfolio Link" width="120" height="28">
+  </a>
+</p>
+
 ## Frameworks, Languages, Libraries
 
 <p align="center">
