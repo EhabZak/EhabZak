@@ -26,10 +26,9 @@ I completed my Full Stack Web Development program at App Academy in October 2023
 
 ## Frameworks, Languages, Libraries
 
-<p align="center">
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<p align="center" style="background-color: white;">
+<code><img width="12%"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="12%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
